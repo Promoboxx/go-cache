@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/away-team/go-cache/src/cache"
-	"github.com/away-team/go-cache/src/storage/memory"
+	"github.com/promoboxx/go-cache/src/cache"
+	"github.com/promoboxx/go-cache/src/storage/memory"
 )
 
 func Test_GetAndLoad(t *testing.T) {

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/away-team/go-cache/src/cache"
 	pcache "github.com/patrickmn/go-cache"
+	"github.com/promoboxx/go-cache/src/cache"
 )
 
 type storage struct {
