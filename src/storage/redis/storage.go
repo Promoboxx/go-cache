@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/away-team/go-cache/src/cache"
 	rcache "github.com/go-redis/cache"
 	"github.com/go-redis/redis"
+	"github.com/promoboxx/go-cache/src/cache"
 )
 
 type storage struct {
